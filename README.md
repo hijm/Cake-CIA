@@ -1,4 +1,10 @@
-Project to control cake production, sales, customers.
+<H1>Project to control cake</H1> 
+
+  - Production
+  - Sales
+  - Customers
+  - Reports
+  - Graphs
 
 JSP + Jquery + Mysql
 
